@@ -1,0 +1,10 @@
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\bin\Debug\TestANPR.exe.config
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\bin\Debug\TestANPR.exe
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\bin\Debug\TestANPR.pdb
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\bin\Debug\LibraryANPRVerbetering.dll
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\bin\Debug\LibraryANPRVerbetering.pdb
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\obj\Debug\TestANPR.csproj.AssemblyReference.cache
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\obj\Debug\TestANPR.csproj.CoreCompileInputs.cache
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\obj\Debug\TestANPR.csproj.Up2Date
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\obj\Debug\TestANPR.exe
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\TestANPR\obj\Debug\TestANPR.pdb

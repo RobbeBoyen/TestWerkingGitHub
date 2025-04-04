@@ -1,0 +1,6 @@
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\LibraryANPRVerbetering\bin\Debug\LibraryANPRVerbetering.dll
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\LibraryANPRVerbetering\bin\Debug\LibraryANPRVerbetering.pdb
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\LibraryANPRVerbetering\obj\Debug\LibraryANPRVerbetering.csproj.AssemblyReference.cache
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\LibraryANPRVerbetering\obj\Debug\LibraryANPRVerbetering.csproj.CoreCompileInputs.cache
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\LibraryANPRVerbetering\obj\Debug\LibraryANPRVerbetering.dll
+C:\Users\5BI2425\Desktop\LibraryANPRVerbetering\LibraryANPRVerbetering\obj\Debug\LibraryANPRVerbetering.pdb
